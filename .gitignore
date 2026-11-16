@@ -1,4 +1,2 @@
-(
-	echo *.o
-	echo *.out
-)
+echo *.o
+echo *.out
